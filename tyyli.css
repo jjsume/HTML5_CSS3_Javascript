@@ -1,0 +1,30 @@
+body {
+	background-color:gray;
+}
+
+h1 {
+	color:blue;
+	margin-top:5%;
+	margin-left: 18%;
+}
+
+#kertsi{
+	background-color: black;
+	color: green;
+	margin-left:20%;
+	margin-right: 20%;
+}
+
+#kertsiBackward {
+	background-color: black;
+	color: red;
+	margin-left:20%;
+	margin-right: 20%;
+}
+
+#author {
+	background-color: gray;
+	color: white;
+	margin-left:48%;
+};
+
